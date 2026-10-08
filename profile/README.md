@@ -70,13 +70,19 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="28" height="28" alt="달력" /> 한 주는 이렇게 흘러가요
 
-```mermaid
-flowchart LR
-  A["📥 자료 확정<br/>주간 하수 공표"] --> B["🤖 자동 예측<br/>2주 뒤 단계"]
-  B --> C["🔔 단계 알림<br/>담당자 확인"]
-  C --> D["🧑‍💼 대응 회의<br/>시·도 감염병 부서"]
-  D --> E["✅ 2주 후 대조<br/>실측과 비교"]
-```
+<table>
+  <tr>
+    <td align="center" width="18%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="40" height="40" alt="클립보드" /><br /><b>자료 확정</b><br /><sub>주간 하수 공표</sub></td>
+    <td align="center">➜</td>
+    <td align="center" width="18%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="노트북" /><br /><b>자동 예측</b><br /><sub>2주 뒤 단계</sub></td>
+    <td align="center">➜</td>
+    <td align="center" width="18%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" width="40" height="40" alt="종" /><br /><b>단계 알림</b><br /><sub>담당자 확인</sub></td>
+    <td align="center">➜</td>
+    <td align="center" width="18%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="악수" /><br /><b>대응 회의</b><br /><sub>시·도 감염병 부서</sub></td>
+    <td align="center">➜</td>
+    <td align="center" width="18%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="40" height="40" alt="확인" /><br /><b>2주 후 대조</b><br /><sub>실측과 비교</sub></td>
+  </tr>
+</table>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" alt="공구" /> 이렇게 만들어요
 
