@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e2638,100:1f9ad6&text=%EB%84%88%EC%9A%B8%EB%AA%A9&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=NEOULMOK%20%C2%B7%20%ED%95%98%EC%88%98%EB%A1%9C%20%EC%9D%BD%EB%8A%94%202%EC%A3%BC%20%EB%92%A4%20%EC%9C%A0%ED%96%89&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="너울목 NEOULMOK — 하수로 읽는 2주 뒤 유행" />
 
-<img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/logo.svg" width="96" alt="너울목 로고: ㄴ 모양으로 꺾인 하수관 위로 지나가는 너울" />
+<img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/logo.svg?v=2" width="96" alt="너울목 로고: ㄴ 모양으로 꺾인 하수관 위로 지나가는 너울" />
 
 <br />
 
