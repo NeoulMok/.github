@@ -1,0 +1,15 @@
+# 공개 저장소 — 대회 데이터 · 파생물 · 비밀값은 절대 올리지 않음
+.env
+.env.*
+*.csv
+*.zip
+*.xlsx
+*.parquet
+*.sqlite3
+KOWAS-EPI*/
+
+# 편집기 · 운영체제
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
