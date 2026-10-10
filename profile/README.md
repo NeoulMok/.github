@@ -18,7 +18,7 @@
 
 <br />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" height="28" alt="손 흔들기" /> 안녕하세요, 너울목입니다
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/waving_hand.png" width="28" height="28" alt="손 흔들기" /> 안녕하세요, 너울목입니다
 
 **너울목(NEOULMOK)** 은 하수 감시 데이터로 17개 시·도의 **2주 뒤 감염병 유행 신호**를 미리 읽는 예보 서비스를 만듭니다.
 
@@ -27,36 +27,36 @@
 > 유행이라는 너울이 사람에게 닿기 전에 **하수라는 길목**에서 먼저 알아챈다는 뜻이에요.<br />
 > 로고는 ‘너울목’의 첫소리 **ㄴ**을 꺾인 하수관으로 그리고, 그 위로 너울이 지나가는 모양이에요.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Water%20Wave.png" width="28" height="28" alt="물결" /> 무엇을 하나요
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/water_wave.png" width="28" height="28" alt="물결" /> 무엇을 하나요
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" width="40" height="40" alt="지도" /><br />
+      <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/world_map.png" width="40" height="40" alt="지도" /><br />
       <b>한반도 3D 지도</b><br />
       실제 시·도 경계를 신호 여유만큼 세워 2주 뒤 단계를 한눈에
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" width="40" height="40" alt="종" /><br />
+      <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/bell.png" width="40" height="40" alt="종" /><br />
       <b>담당자 알림</b><br />
       4단계는 즉시, 3단계는 2주 연속일 때 — 사람이 확인한 뒤 보내요
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="40" height="40" alt="그래프" /><br />
+      <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/chart_increasing.png" width="40" height="40" alt="그래프" /><br />
       <b>리플레이 대시보드</b><br />
       지난 평가 창을 주마다 다시 돌려 실제 결과 · 기준모델과 나란히 비교
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="40" height="40" alt="방패" /><br />
+      <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/shield.png" width="40" height="40" alt="방패" /><br />
       <b>전향 실전 예보</b><br />
       실측이 나오기 전에 발행하고, 발행 시점은 해시로 증명해요
     </td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" height="28" alt="막대그래프" /> 하수 신호 4단계
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/bar_chart.png" width="28" height="28" alt="막대그래프" /> 하수 신호 4단계
 
 | 단계 | 이름 | 이렇게 움직여요 |
 |:---:|---|---|
@@ -68,23 +68,23 @@
 
 <sub>정부 감염병 위기경보와는 다른, 하수 신호만의 단계예요. 단계는 색만이 아니라 숫자와 이름으로 함께 보여 줘요.</sub>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="28" height="28" alt="달력" /> 한 주는 이렇게 흘러가요
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/spiral_calendar.png" width="28" height="28" alt="달력" /> 한 주는 이렇게 흘러가요
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clipboard.png" width="40" height="40" alt="클립보드" /><br /><b>자료&nbsp;확정</b><br /><sub>주간&nbsp;하수&nbsp;공표</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/clipboard.png" width="40" height="40" alt="클립보드" /><br /><b>자료&nbsp;확정</b><br /><sub>주간&nbsp;하수&nbsp;공표</sub></td>
     <td align="center">➜</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40" height="40" alt="노트북" /><br /><b>자동&nbsp;예측</b><br /><sub>2주&nbsp;뒤&nbsp;단계</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/laptop.png" width="40" height="40" alt="노트북" /><br /><b>자동&nbsp;예측</b><br /><sub>2주&nbsp;뒤&nbsp;단계</sub></td>
     <td align="center">➜</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bell.png" width="40" height="40" alt="종" /><br /><b>단계&nbsp;알림</b><br /><sub>담당자&nbsp;확인</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/bell.png" width="40" height="40" alt="종" /><br /><b>단계&nbsp;알림</b><br /><sub>담당자&nbsp;확인</sub></td>
     <td align="center">➜</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="40" height="40" alt="악수" /><br /><b>대응&nbsp;회의</b><br /><sub>시·도&nbsp;감염병&nbsp;부서</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/handshake.png" width="40" height="40" alt="악수" /><br /><b>대응&nbsp;회의</b><br /><sub>시·도&nbsp;감염병&nbsp;부서</sub></td>
     <td align="center">➜</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="40" height="40" alt="확인" /><br /><b>2주&nbsp;후&nbsp;대조</b><br /><sub>실측과&nbsp;비교</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/check_mark_button.png" width="40" height="40" alt="확인" /><br /><b>2주&nbsp;후&nbsp;대조</b><br /><sub>실측과&nbsp;비교</sub></td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" alt="공구" /> 이렇게 만들어요
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/hammer_and_wrench.png" width="28" height="28" alt="공구" /> 이렇게 만들어요
 
 <p>
 <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.12" /> <img src="https://img.shields.io/badge/Django-6.1-0C4B33?style=for-the-badge&logo=django&logoColor=white" alt="Django 6.1" /> <img src="https://img.shields.io/badge/pydantic-2-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="pydantic 2" /> <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript 5.9" /> <img src="https://img.shields.io/badge/Nuxt-4.5-00DC82?style=for-the-badge&logo=nuxt&logoColor=white" alt="Nuxt 4.5" /> <img src="https://img.shields.io/badge/Vue.js-3.5-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js 3.5" /> <img src="https://img.shields.io/badge/Three.js-0.186-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js 0.186" /> <img src="https://img.shields.io/badge/Vitest-5-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest 5" /> <img src="https://img.shields.io/badge/pnpm-10-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm 10" />
@@ -94,7 +94,7 @@
 - 🛡️ 외부 스크립트 0 · CSP 해시 · 세션과 역할 3종 · 수치 입력은 2인 승인
 - ♿ 그림마다 같은 내용의 표와 해석 문장을 함께 둬요(화면 낭독기 · 인쇄 대응)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" height="28" alt="책" /> 저장소
+## <img src="https://raw.githubusercontent.com/NeoulMok/.github/main/profile/assets/emoji/books.png" width="28" height="28" alt="책" /> 저장소
 
 | | 저장소 | 내용 |
 |:---:|---|---|
@@ -109,6 +109,8 @@
 <div align="center">
 
 <sub>⚠️ 의사결정 참고용 예보이며 보건당국의 공식 경보가 아닙니다 · ‘급증’은 대회 정의를 따른 조작적 정의예요</sub>
+
+<sub>이모지 그림: Microsoft Fluent UI Emoji(MIT 라이선스, Copyright © Microsoft Corporation) — <code>profile/assets/emoji/LICENSE</code></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f9ad6,100:1e2638&section=footer" width="100%" alt="" />
 
