@@ -9,4 +9,4 @@
 | 기록 시각(KST) | 항목 | SHA-256 | 직전 해시 | 증명 |
 |---|---|---|---|---|
 | 2026-10-11 01:36 | 전향 예보 사전등록 v1 | `8d0a0aa8f92ac6bc169279b5d26d61e0a574afe9fc221066c5ebaa2aa7d466d2` | — | [`prereg_v1.md.ots`](prereg_v1.md.ots) · 비트코인 블록 970794(2026-10-11 01:54 KST) 확정 |
-| 2026-10-11 18:51 | 고도화 사전등록 v1(모델 개선 후보 H1~H4 판정 기준) | `1dceeae3e8eea7f9df73eeb9a51f60e2a380ae07cfa4136ceb443c1431aca32c` | — | [`prereg_enhancement_v1.md.ots`](prereg_enhancement_v1.md.ots) · 블록 확정 대기 |
+| 2026-10-11 18:51 | 고도화 사전등록 v1(모델 개선 후보 H1~H4 판정 기준) | `1dceeae3e8eea7f9df73eeb9a51f60e2a380ae07cfa4136ceb443c1431aca32c` | — | [`prereg_enhancement_v1.md.ots`](prereg_enhancement_v1.md.ots) · 비트코인 블록 970903(2026-10-11 18:54 KST) 확정 |
