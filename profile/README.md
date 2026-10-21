@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/17%EA%B0%9C_%EC%8B%9C%C2%B7%EB%8F%84-2%EC%A3%BC_%EB%92%A4_%EC%98%88%EB%B3%B4-5cc3f2?style=flat-square" alt="17개 시·도 2주 뒤 예보" />
 </p>
 
+<a href="https://neoulmok.github.io"><img src="https://img.shields.io/badge/%EC%86%8C%EA%B0%9C_%EC%82%AC%EC%9D%B4%ED%8A%B8-neoulmok.github.io-1f9ad6?style=for-the-badge&logo=githubpages&logoColor=white" alt="소개 사이트 neoulmok.github.io 열기" /></a>
+
 </div>
 
 <br />
@@ -101,8 +103,9 @@
 | 🌐 | [**neoulmok-service**](https://github.com/NeoulMok/neoulmok-service) | 예보 화면 · API (Django + Nuxt) |
 | 🧪 | [**neoulmok-model**](https://github.com/NeoulMok/neoulmok-model) | 예비 모델 실험 |
 | 📚 | [**neoulmok-docs**](https://github.com/NeoulMok/neoulmok-docs) | 기획서 · 실행계획 · 팀 문서 |
+| 🏠 | [**neoulmok.github.io**](https://github.com/NeoulMok/neoulmok.github.io) | 소개 사이트 배포본 — [neoulmok.github.io](https://neoulmok.github.io) |
 
-<sub>🔒 대회 기간에는 모든 저장소를 비공개로 운영해요.</sub>
+<sub>🔒 소개 사이트 배포본을 뺀 저장소는 대회 기간에 비공개로 운영해요.</sub>
 
 <br />
 
